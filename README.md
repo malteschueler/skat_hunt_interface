@@ -4,7 +4,7 @@ This is a quick and dirty hack to enable users all over the world to enjoy the H
 
 ## Requisites
 
-Windows 10
-SSD drive
-no issues with Wsappx
+- Windows 10
+- SSD drive
+- no issues with Wsappx
 
